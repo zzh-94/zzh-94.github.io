@@ -126,6 +126,13 @@ address span{
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
+.company_details h5,.education_details h5{
+    color:#333;
+    font-weight:400;
+    font-size:1.5em;
+    margin-bottom:6px;
+    font-family: 'Varela Round', sans-serif;
+}
 .company_details h4 span,.education_details h4 span{
 	font-size: 0.65em;
   margin-left: 5px;
@@ -155,18 +162,11 @@ address span{
 .skill_list{
 	padding:1.5em 0 0 2em;
 }
-.skill1,.skill2{
-	 float:left;
-	 width:30%;
-}
 .skill1 h4,.skill2 h4{
 	color:#333;
 	font-weight:600;
 	margin-bottom:1em;
 	display:inline-block;
-}
-.skill1 ul,.skill2 ul{
-	padding-left:4em;
 }
 .skill1 ul li,.skill2 ul li{
 	color:#333;
